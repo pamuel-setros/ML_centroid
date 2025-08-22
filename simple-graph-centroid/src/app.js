@@ -1,3 +1,4 @@
+// ...existing code...
 const canvas = document.getElementById('graph');
 const ctx = canvas.getContext('2d');
 const btn = document.getElementById('generatePoints');
